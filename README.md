@@ -18,6 +18,7 @@ Q5 : Does smoking status (smoker vs. non-smoker) relate to their overall restaur
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+
 Methodology :
 
 -Use MS Power Bi to Make the Dashboard of the Data.
